@@ -1,0 +1,20 @@
+[
+  {
+    "arquivo": "Celular_Seguro_Cartilha.pdf",
+    "paginas": 16,
+    "tamanho": "A4 vertical",
+    "campos": 23,
+    "links": 15,
+    "texto_extraivel": true,
+    "marcadores": 16
+  },
+  {
+    "arquivo": "Celular_Seguro_Impressao.pdf",
+    "paginas": 16,
+    "tamanho": "A4 vertical",
+    "campos": 23,
+    "links": 15,
+    "texto_extraivel": true,
+    "marcadores": 16
+  }
+]
